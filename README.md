@@ -1,1 +1,3 @@
-# vibecheck
+# VibeCheck
+
+## Description
